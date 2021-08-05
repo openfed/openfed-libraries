@@ -1,0 +1,19 @@
+{
+    "packages": {
+        "ckeditor/uploadwidget": [
+            {
+                "name": "ckeditor/uploadwidget",
+                "version": "4.16.1",
+                "version_normalized": "4.16.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://download.ckeditor.com/uploadwidget/releases/uploadwidget_4.16.1.zip"
+                },
+                "require": {
+                    "oomphinc/composer-installers-extender": "^2.0"
+                },
+                "type": "openfed-ckeditor-plugin"
+            }
+        ]
+    }
+}

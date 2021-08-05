@@ -1,0 +1,16 @@
+{
+    "packages": {
+        "jackmoore/colorbox": [
+            {
+                "name": "jackmoore/colorbox",
+                "version": "1.6.4",
+                "version_normalized": "1.6.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/jackmoore/colorbox/archive/1.6.4.zip"
+                },
+                "type": "drupal-library"
+            }
+        ]
+    }
+}
