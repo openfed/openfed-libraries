@@ -1,0 +1,8 @@
+{
+    "name": "openfed/openfed-libraries",
+    "description": "Openfed Composer repository",
+    "homepage": "https://openfed.github.io/openfed-libraries",
+    "require": {
+        "composer/satis": "dev-main#5f37dab as 1.0.0"
+    }
+}
