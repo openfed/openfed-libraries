@@ -1,0 +1,22 @@
+{
+    "packages": [],
+    "includes": {
+        "include/all$44404f8bae6df410b2a386a4ddb17be6fca34f4d.json": {
+            "sha1": "44404f8bae6df410b2a386a4ddb17be6fca34f4d"
+        }
+    },
+    "metadata-url": "/openfed-libraries/p2/%package%.json",
+    "available-packages": [
+        "ckeditor/fakeobjects",
+        "ckeditor/filetools",
+        "ckeditor/find",
+        "ckeditor/link",
+        "ckeditor/notification",
+        "ckeditor/notificationaggregator",
+        "ckeditor/templates",
+        "ckeditor/uploadimage",
+        "ckeditor/uploadwidget",
+        "jackmoore/colorbox",
+        "w8tcha/codemirror"
+    ]
+}

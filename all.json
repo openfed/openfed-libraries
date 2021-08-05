@@ -1,0 +1,169 @@
+{
+    "packages": {
+        "ckeditor/fakeobjects": {
+            "4.16.1": {
+                "name": "ckeditor/fakeobjects",
+                "version": "4.16.1",
+                "version_normalized": "4.16.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://download.ckeditor.com/fakeobjects/releases/fakeobjects_4.16.1.zip"
+                },
+                "require": {
+                    "oomphinc/composer-installers-extender": "^2.0"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "ckeditor/filetools": {
+            "4.16.1": {
+                "name": "ckeditor/filetools",
+                "version": "4.16.1",
+                "version_normalized": "4.16.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://download.ckeditor.com/filetools/releases/filetools_4.16.1.zip"
+                },
+                "require": {
+                    "oomphinc/composer-installers-extender": "^2.0"
+                },
+                "type": "openfed-ckeditor-plugin"
+            }
+        },
+        "ckeditor/find": {
+            "4.16.1": {
+                "name": "ckeditor/find",
+                "version": "4.16.1",
+                "version_normalized": "4.16.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://download.ckeditor.com/find/releases/find_4.16.1.zip"
+                },
+                "require": {
+                    "oomphinc/composer-installers-extender": "^2.0"
+                },
+                "type": "openfed-ckeditor-plugin"
+            }
+        },
+        "ckeditor/link": {
+            "4.16.1": {
+                "name": "ckeditor/link",
+                "version": "4.16.1",
+                "version_normalized": "4.16.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://download.ckeditor.com/link/releases/link_4.16.1.zip"
+                },
+                "require": {
+                    "oomphinc/composer-installers-extender": "^2.0"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "ckeditor/notification": {
+            "4.16.1": {
+                "name": "ckeditor/notification",
+                "version": "4.16.1",
+                "version_normalized": "4.16.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://download.ckeditor.com/notification/releases/notification_4.16.1.zip"
+                },
+                "require": {
+                    "oomphinc/composer-installers-extender": "^2.0"
+                },
+                "type": "openfed-ckeditor-plugin"
+            }
+        },
+        "ckeditor/notificationaggregator": {
+            "4.16.1": {
+                "name": "ckeditor/notificationaggregator",
+                "version": "4.16.1",
+                "version_normalized": "4.16.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://download.ckeditor.com/notificationaggregator/releases/notificationaggregator_4.16.1.zip"
+                },
+                "require": {
+                    "oomphinc/composer-installers-extender": "^2.0"
+                },
+                "type": "openfed-ckeditor-plugin"
+            }
+        },
+        "ckeditor/templates": {
+            "4.16.1": {
+                "name": "ckeditor/templates",
+                "version": "4.16.1",
+                "version_normalized": "4.16.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://download.ckeditor.com/templates/releases/templates_4.16.1.zip"
+                },
+                "require": {
+                    "oomphinc/composer-installers-extender": "^2.0"
+                },
+                "type": "openfed-ckeditor-template"
+            }
+        },
+        "ckeditor/uploadimage": {
+            "4.16.1": {
+                "name": "ckeditor/uploadimage",
+                "version": "4.16.1",
+                "version_normalized": "4.16.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://download.ckeditor.com/uploadimage/releases/uploadimage_4.16.1.zip"
+                },
+                "require": {
+                    "oomphinc/composer-installers-extender": "^2.0"
+                },
+                "type": "openfed-ckeditor-plugin"
+            }
+        },
+        "ckeditor/uploadwidget": {
+            "4.16.1": {
+                "name": "ckeditor/uploadwidget",
+                "version": "4.16.1",
+                "version_normalized": "4.16.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://download.ckeditor.com/uploadwidget/releases/uploadwidget_4.16.1.zip"
+                },
+                "require": {
+                    "oomphinc/composer-installers-extender": "^2.0"
+                },
+                "type": "openfed-ckeditor-plugin"
+            }
+        },
+        "jackmoore/colorbox": {
+            "1.6.4": {
+                "name": "jackmoore/colorbox",
+                "version": "1.6.4",
+                "version_normalized": "1.6.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/jackmoore/colorbox/archive/1.6.4.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "w8tcha/codemirror": {
+            "1.17.8": {
+                "name": "w8tcha/codemirror",
+                "version": "1.17.8",
+                "version_normalized": "1.17.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/w8tcha/CKEditor-CodeMirror-Plugin/archive/untagged-f790a6bee2e01b538b13.zip"
+                },
+                "require": {
+                    "oomphinc/composer-installers-extender": "^2.0"
+                },
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "ckeditor_codemirror"
+                }
+            }
+        }
+    }
+}
