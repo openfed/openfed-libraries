@@ -6,12 +6,12 @@ This is [composer](https://getcomposer.org/) repository to speed up packages ins
 To use Openfed Libraries, your project `composer.json` should contain:
 
 ```json
-	"repositories": [
-		{
-			"type": "composer",
-			"url": "https://openfed.github.io/openfed-libraries/"
-		},
-    ]
+"repositories": [
+	{
+		"type": "composer",
+		"url": "https://openfed.github.io/openfed-libraries/"
+	},
+]
 ```
 
 Head over to https://openfed.github.io/openfed-libraries/ to browse available packages.
@@ -19,8 +19,7 @@ Head over to https://openfed.github.io/openfed-libraries/ to browse available pa
 __NOTE__: actual composer repository is on [gh-pages](https://github.com/openfed/openfed-libraries/tree/gh-pages) branch
 
 
-Update Openfed Libraries
-===========================
+## Update Openfed Libraries
 
 This project makes use of [Satis](https://github.com/composer/satis) and it's using its master branch
 
