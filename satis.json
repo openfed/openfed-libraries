@@ -166,6 +166,39 @@
               "type": "zip"
             }
           }
+        },
+        {
+          "type": "package",
+          "package": {
+            "name": "smillart/Framework-SASS-Source-Files",
+            "version": "1.0.0",
+            "type": "theme-library",
+            "require": {
+               "oomphinc/composer-installers-extender": "^2.0"
+            },
+            "extra": {
+              "installer-name": "_sass-framework"
+            },
+            "dist": {
+              "url": "https://github.com/smillart/Framework-SASS-Source-Files/archive/refs/tags/1.0.0.zip",
+              "type": "zip"
+            }
+          }
+        },
+        {
+          "type": "package",
+          "package": {
+            "name": "smillart/WAI-ARIA-Patterns-And-Widgets",
+            "version": "1.0.6",
+            "type": "theme-library",
+            "require": {
+               "oomphinc/composer-installers-extender": "^2.0"
+            },
+            "dist": {
+              "url": "https://github.com/smillart/WAI-ARIA-Patterns-And-Widgets/archive/refs/tags/1.0.6.zip",
+              "type": "zip"
+            }
+          }
         }
     ],
     "require-all": true
