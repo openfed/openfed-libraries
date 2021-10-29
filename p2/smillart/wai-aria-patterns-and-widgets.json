@@ -12,7 +12,10 @@
                 "require": {
                     "oomphinc/composer-installers-extender": "^2.0"
                 },
-                "type": "theme-library"
+                "type": "theme-library",
+                "extra": {
+                    "installer-name": "wai_aria_patterns_widgets"
+                }
             }
         ]
     }
