@@ -194,6 +194,9 @@
             "require": {
                "oomphinc/composer-installers-extender": "^2.0"
             },
+            "extra": {
+              "installer-name": "wai_aria_patterns_widgets"
+            },
             "dist": {
               "url": "https://github.com/smillart/WAI-ARIA-Patterns-And-Widgets/archive/refs/tags/1.0.6.zip",
               "type": "zip"
