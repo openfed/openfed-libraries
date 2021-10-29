@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$44404f8bae6df410b2a386a4ddb17be6fca34f4d.json": {
-            "sha1": "44404f8bae6df410b2a386a4ddb17be6fca34f4d"
+        "include/all$28e3e9b592b15af7dd721cf38e87a658140ffd26.json": {
+            "sha1": "28e3e9b592b15af7dd721cf38e87a658140ffd26"
         }
     },
     "metadata-url": "/openfed-libraries/p2/%package%.json",
@@ -17,6 +17,8 @@
         "ckeditor/uploadimage",
         "ckeditor/uploadwidget",
         "jackmoore/colorbox",
+        "smillart/framework-sass-source-files",
+        "smillart/wai-aria-patterns-and-widgets",
         "w8tcha/codemirror"
     ]
 }

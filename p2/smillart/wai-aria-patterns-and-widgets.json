@@ -1,0 +1,19 @@
+{
+    "packages": {
+        "smillart/wai-aria-patterns-and-widgets": [
+            {
+                "name": "smillart/WAI-ARIA-Patterns-And-Widgets",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/smillart/WAI-ARIA-Patterns-And-Widgets/archive/refs/tags/1.0.6.zip"
+                },
+                "require": {
+                    "oomphinc/composer-installers-extender": "^2.0"
+                },
+                "type": "theme-library"
+            }
+        ]
+    }
+}

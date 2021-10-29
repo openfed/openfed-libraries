@@ -147,6 +147,39 @@
                 "type": "drupal-library"
             }
         },
+        "smillart/framework-sass-source-files": {
+            "1.0.0": {
+                "name": "smillart/Framework-SASS-Source-Files",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/smillart/Framework-SASS-Source-Files/archive/refs/tags/1.0.0.zip"
+                },
+                "require": {
+                    "oomphinc/composer-installers-extender": "^2.0"
+                },
+                "type": "theme-library",
+                "extra": {
+                    "installer-name": "_sass-framework"
+                }
+            }
+        },
+        "smillart/wai-aria-patterns-and-widgets": {
+            "1.0.6": {
+                "name": "smillart/WAI-ARIA-Patterns-And-Widgets",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/smillart/WAI-ARIA-Patterns-And-Widgets/archive/refs/tags/1.0.6.zip"
+                },
+                "require": {
+                    "oomphinc/composer-installers-extender": "^2.0"
+                },
+                "type": "theme-library"
+            }
+        },
         "w8tcha/codemirror": {
             "1.17.8": {
                 "name": "w8tcha/codemirror",
