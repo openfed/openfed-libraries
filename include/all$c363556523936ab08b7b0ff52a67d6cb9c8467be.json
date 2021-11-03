@@ -179,7 +179,7 @@
                 },
                 "type": "theme-library",
                 "extra": {
-                    "installer-name": "wai_aria_patterns_widgets"
+                    "installer-name": "wai-aria-patterns-and-widgets"
                 }
             }
         },
