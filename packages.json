@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$d45bad8642a2f5ed5c5d7bde6c86ddbc2b07634a.json": {
-            "sha1": "d45bad8642a2f5ed5c5d7bde6c86ddbc2b07634a"
+        "include/all$974bd2c5c8d42b953b21aa510e851bb6e8e722f8.json": {
+            "sha1": "974bd2c5c8d42b953b21aa510e851bb6e8e722f8"
         }
     },
     "metadata-url": "/openfed-libraries/p2/%package%.json",

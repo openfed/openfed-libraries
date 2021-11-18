@@ -301,6 +301,22 @@
             }
         },
         "w8tcha/codemirror": {
+            "1.17.12": {
+                "name": "w8tcha/codemirror",
+                "version": "1.17.12",
+                "version_normalized": "1.17.12.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/w8tcha/CKEditor-CodeMirror-Plugin/archive/refs/tags/v1.17.12.zip"
+                },
+                "require": {
+                    "oomphinc/composer-installers-extender": "^2.0"
+                },
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "ckeditor_codemirror"
+                }
+            },
             "1.17.8": {
                 "name": "w8tcha/codemirror",
                 "version": "1.17.8",
