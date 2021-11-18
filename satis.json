@@ -2,7 +2,7 @@
     "name": "openfed/openfed-libraries",
     "homepage": "https://openfed.github.io/openfed-libraries",
     "repositories": [
-    	{
+        {
             "type": "package",
             "package": {
                 "name": "jackmoore/colorbox",
@@ -21,7 +21,7 @@
                 "version": "4.16.1",
                 "type": "openfed-ckeditor-plugin",
                 "require": {
-                     "oomphinc/composer-installers-extender": "^2.0"
+                    "oomphinc/composer-installers-extender": "^2.0"
                 },
                 "dist": {
                     "url": "https://download.ckeditor.com/uploadimage/releases/uploadimage_4.16.1.zip",
@@ -36,7 +36,7 @@
                 "version": "4.16.1",
                 "type": "openfed-ckeditor-plugin",
                 "require": {
-                     "oomphinc/composer-installers-extender": "^2.0"
+                    "oomphinc/composer-installers-extender": "^2.0"
                 },
                 "dist": {
                     "url": "https://download.ckeditor.com/uploadwidget/releases/uploadwidget_4.16.1.zip",
@@ -51,7 +51,7 @@
                 "version": "4.16.1",
                 "type": "openfed-ckeditor-plugin",
                 "require": {
-                     "oomphinc/composer-installers-extender": "^2.0"
+                    "oomphinc/composer-installers-extender": "^2.0"
                 },
                 "dist": {
                     "url": "https://download.ckeditor.com/filetools/releases/filetools_4.16.1.zip",
@@ -60,19 +60,19 @@
             }
         },
         {
-             "type": "package",
-             "package": {
-                 "name": "ckeditor/notification",
-                 "version": "4.16.1",
-                 "type": "openfed-ckeditor-plugin",
-                 "require": {
-                     "oomphinc/composer-installers-extender": "^2.0"
-                 },
-                 "dist": {
-                     "url": "https://download.ckeditor.com/notification/releases/notification_4.16.1.zip",
-                     "type": "zip"
-                 }
-             }
+            "type": "package",
+            "package": {
+                "name": "ckeditor/notification",
+                "version": "4.16.1",
+                "type": "openfed-ckeditor-plugin",
+                "require": {
+                    "oomphinc/composer-installers-extender": "^2.0"
+                },
+                "dist": {
+                    "url": "https://download.ckeditor.com/notification/releases/notification_4.16.1.zip",
+                    "type": "zip"
+                }
+            }
         },
         {
             "type": "package",
@@ -150,58 +150,58 @@
             }
         },
         {
-          "type": "package",
-          "package": {
-            "name": "w8tcha/codemirror",
-            "version": "1.17.8",
-            "type": "drupal-library",
-            "require": {
-               "oomphinc/composer-installers-extender": "^2.0"
-            },
-            "extra": {
-              "installer-name": "ckeditor_codemirror"
-            },
-            "dist": {
-              "url": "https://github.com/w8tcha/CKEditor-CodeMirror-Plugin/archive/untagged-f790a6bee2e01b538b13.zip",
-              "type": "zip"
+            "type": "package",
+            "package": {
+                "name": "w8tcha/codemirror",
+                "version": "1.17.8",
+                "type": "drupal-library",
+                "require": {
+                    "oomphinc/composer-installers-extender": "^2.0"
+                },
+                "extra": {
+                    "installer-name": "ckeditor_codemirror"
+                },
+                "dist": {
+                    "url": "https://github.com/w8tcha/CKEditor-CodeMirror-Plugin/archive/untagged-f790a6bee2e01b538b13.zip",
+                    "type": "zip"
+                }
             }
-          }
         },
         {
-          "type": "package",
-          "package": {
-            "name": "smillart/Framework-SASS-Source-Files",
-            "version": "1.0.0",
-            "type": "theme-library",
-            "require": {
-               "oomphinc/composer-installers-extender": "^2.0"
-            },
-            "extra": {
-              "installer-name": "_sass-framework"
-            },
-            "dist": {
-              "url": "https://github.com/smillart/Framework-SASS-Source-Files/archive/refs/tags/1.0.0.zip",
-              "type": "zip"
+            "type": "package",
+            "package": {
+                "name": "smillart/Framework-SASS-Source-Files",
+                "version": "1.0.0",
+                "type": "theme-library",
+                "require": {
+                    "oomphinc/composer-installers-extender": "^2.0"
+                },
+                "extra": {
+                    "installer-name": "_sass-framework"
+                },
+                "dist": {
+                    "url": "https://github.com/smillart/Framework-SASS-Source-Files/archive/refs/tags/1.0.0.zip",
+                    "type": "zip"
+                }
             }
-          }
         },
         {
-          "type": "package",
-          "package": {
-            "name": "smillart/WAI-ARIA-Patterns-And-Widgets",
-            "version": "1.0.6",
-            "type": "theme-library",
-            "require": {
-               "oomphinc/composer-installers-extender": "^2.0"
-            },
-            "extra": {
-              "installer-name": "wai-aria-patterns-and-widgets"
-            },
-            "dist": {
-              "url": "https://github.com/smillart/WAI-ARIA-Patterns-And-Widgets/archive/refs/tags/1.0.6.zip",
-              "type": "zip"
+            "type": "package",
+            "package": {
+                "name": "smillart/WAI-ARIA-Patterns-And-Widgets",
+                "version": "1.0.6",
+                "type": "theme-library",
+                "require": {
+                    "oomphinc/composer-installers-extender": "^2.0"
+                },
+                "extra": {
+                    "installer-name": "wai-aria-patterns-and-widgets"
+                },
+                "dist": {
+                    "url": "https://github.com/smillart/WAI-ARIA-Patterns-And-Widgets/archive/refs/tags/1.0.6.zip",
+                    "type": "zip"
+                }
             }
-          }
         }
     ],
     "require-all": true
