@@ -13,6 +13,19 @@
                     "oomphinc/composer-installers-extender": "^2.0"
                 },
                 "type": "drupal-library"
+            },
+            {
+                "name": "ckeditor/link",
+                "version": "4.17.1",
+                "version_normalized": "4.17.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://download.ckeditor.com/link/releases/link_4.17.1.zip"
+                },
+                "require": {
+                    "oomphinc/composer-installers-extender": "^2.0"
+                },
+                "type": "drupal-library"
             }
         ]
     }
