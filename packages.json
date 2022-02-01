@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$974bd2c5c8d42b953b21aa510e851bb6e8e722f8.json": {
-            "sha1": "974bd2c5c8d42b953b21aa510e851bb6e8e722f8"
+        "include/all$d9ef18e65157b1cc90008d9deb7b237d0546374f.json": {
+            "sha1": "d9ef18e65157b1cc90008d9deb7b237d0546374f"
         }
     },
     "metadata-url": "/openfed-libraries/p2/%package%.json",
@@ -16,6 +16,7 @@
         "ckeditor/templates",
         "ckeditor/uploadimage",
         "ckeditor/uploadwidget",
+        "furf/jquery-ui-touch-punch",
         "jackmoore/colorbox",
         "smillart/framework-sass-source-files",
         "smillart/wai-aria-patterns-and-widgets",

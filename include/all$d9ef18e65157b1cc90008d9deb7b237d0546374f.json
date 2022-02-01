@@ -252,6 +252,24 @@
                 "type": "openfed-ckeditor-plugin"
             }
         },
+        "furf/jquery-ui-touch-punch": {
+            "0.2.3": {
+                "name": "furf/jquery-ui-touch-punch",
+                "version": "0.2.3",
+                "version_normalized": "0.2.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/furf/jquery-ui-touch-punch/archive/4bc009145202d9c7483ba85f3a236a8f3470354d.zip"
+                },
+                "require": {
+                    "oomphinc/composer-installers-extender": "^2.0"
+                },
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "jquery-ui-touch-punch"
+                }
+            }
+        },
         "jackmoore/colorbox": {
             "1.6.4": {
                 "name": "jackmoore/colorbox",
