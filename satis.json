@@ -341,7 +341,7 @@
         {
             "type": "package",
             "package": {
-                "name": "smillart/WAI-ARIA-Patterns-And-Widgets",
+                "name": "smillart/wai-aria-patterns-and-widgets",
                 "version": "1.0.6",
                 "type": "theme-library",
                 "require": {
