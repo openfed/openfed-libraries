@@ -302,7 +302,7 @@
         },
         "smillart/wai-aria-patterns-and-widgets": {
             "1.0.6": {
-                "name": "smillart/WAI-ARIA-Patterns-And-Widgets",
+                "name": "smillart/wai-aria-patterns-and-widgets",
                 "version": "1.0.6",
                 "version_normalized": "1.0.6.0",
                 "dist": {
