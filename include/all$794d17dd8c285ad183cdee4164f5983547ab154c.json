@@ -298,6 +298,22 @@
                 "extra": {
                     "installer-name": "_sass-framework"
                 }
+            },
+            "1.0.1": {
+                "name": "smillart/Framework-SASS-Source-Files",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/smillart/Framework-SASS-Source-Files/archive/refs/tags/1.0.1.zip"
+                },
+                "require": {
+                    "oomphinc/composer-installers-extender": "^2.0"
+                },
+                "type": "theme-library",
+                "extra": {
+                    "installer-name": "_sass-framework"
+                }
             }
         },
         "smillart/wai-aria-patterns-and-widgets": {
