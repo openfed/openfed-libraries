@@ -2,7 +2,7 @@
     "packages": {
         "smillart/framework-sass-source-files": [
             {
-                "name": "smillart/Framework-SASS-Source-Files",
+                "name": "smillart/framework-sass-source-files",
                 "version": "1.0.0",
                 "version_normalized": "1.0.0.0",
                 "dist": {
@@ -18,7 +18,7 @@
                 }
             },
             {
-                "name": "smillart/Framework-SASS-Source-Files",
+                "name": "smillart/framework-sass-source-files",
                 "version": "1.0.1",
                 "version_normalized": "1.0.1.0",
                 "dist": {
