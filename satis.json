@@ -323,7 +323,7 @@
         {
             "type": "package",
             "package": {
-                "name": "smillart/Framework-SASS-Source-Files",
+                "name": "smillart/framework-sass-source-files",
                 "version": "1.0.0",
                 "type": "theme-library",
                 "require": {
@@ -341,7 +341,7 @@
         {
             "type": "package",
             "package": {
-                "name": "smillart/Framework-SASS-Source-Files",
+                "name": "smillart/framework-sass-source-files",
                 "version": "1.0.1",
                 "type": "theme-library",
                 "require": {
