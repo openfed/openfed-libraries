@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$6d640e5dca1f0a3f1dc40aed95e35f211393cdc8.json": {
-            "sha1": "6d640e5dca1f0a3f1dc40aed95e35f211393cdc8"
+        "include/all$f9841e1a502401a6bdec1905f392deb744fc4e65.json": {
+            "sha1": "f9841e1a502401a6bdec1905f392deb744fc4e65"
         }
     },
     "metadata-url": "/openfed-libraries/p2/%package%.json",
@@ -20,6 +20,7 @@
         "jackmoore/colorbox",
         "smillart/framework-sass-source-files",
         "smillart/wai-aria-patterns-and-widgets",
+        "splidejs/splide",
         "w8tcha/codemirror"
     ]
 }
