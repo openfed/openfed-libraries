@@ -348,7 +348,7 @@
                 },
                 "type": "drupal-library",
                 "extra": {
-                    "installer-name": "splidejs-splide"
+                    "installer-name": "splide"
                 }
             }
         },
@@ -366,7 +366,7 @@
                 },
                 "type": "drupal-library",
                 "extra": {
-                    "installer-name": "ten1seven/what-input"
+                    "installer-name": "what-input"
                 }
             }
         },

@@ -14,7 +14,7 @@
                 },
                 "type": "drupal-library",
                 "extra": {
-                    "installer-name": "splidejs-splide"
+                    "installer-name": "splide"
                 }
             }
         ]
