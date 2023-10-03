@@ -352,6 +352,24 @@
                 }
             }
         },
+        "ten1seven/what-input": {
+            "5.2.12": {
+                "name": "ten1seven/what-input",
+                "version": "5.2.12",
+                "version_normalized": "5.2.12.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/ten1seven/what-input/archive/refs/tags/v5.2.12.zip"
+                },
+                "require": {
+                    "oomphinc/composer-installers-extender": "^2.0"
+                },
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "ten1seven/what-input"
+                }
+            }
+        },
         "w8tcha/codemirror": {
             "1.17.12": {
                 "name": "w8tcha/codemirror",

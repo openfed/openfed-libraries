@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$b09573ab60b503c11a74330de02374f16c3475e0.json": {
-            "sha1": "b09573ab60b503c11a74330de02374f16c3475e0"
+        "include/all$3404d747c279d74e6ec2f534f81e67d8e8693daf.json": {
+            "sha1": "3404d747c279d74e6ec2f534f81e67d8e8693daf"
         }
     },
     "metadata-url": "/openfed-libraries/p2/%package%.json",
@@ -21,6 +21,7 @@
         "smillart/framework-sass-source-files",
         "smillart/wai-aria-patterns-and-widgets",
         "splidejs/splide",
+        "ten1seven/what-input",
         "w8tcha/codemirror"
     ]
 }
