@@ -409,6 +409,24 @@
                     "type": "zip"
                 }
             }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "ten1seven/what-input",
+                "version": "5.2.12",
+                "type": "drupal-library",
+                "require": {
+                    "oomphinc/composer-installers-extender": "^2.0"
+                },
+                "extra": {
+                    "installer-name": "ten1seven/what-input"
+                },
+                "dist": {
+                    "url": "https://github.com/ten1seven/what-input/archive/refs/tags/v5.2.12.zip",
+                    "type": "zip"
+                }
+            }
         }
     ],
     "require-all": true
