@@ -379,7 +379,7 @@
       "package": {
         "name": "smillart/wai-aria-patterns-and-widgets",
         "version": "1.0.6",
-        "type": "theme-library",
+        "type": "drupal-library",
         "require": {
           "oomphinc/composer-installers-extender": "^2.0"
         },
